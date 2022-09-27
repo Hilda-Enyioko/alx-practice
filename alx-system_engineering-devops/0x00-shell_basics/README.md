@@ -39,4 +39,4 @@ The listing should end with a new line
 school.mgc: Create a magic file school.mgc that can be used with the command file to detect School data files. School data files always contain the string SCHOOL at offset 0.
 
 
-This folder also imcludes some test files used to test scripts and codes
+This folder also includes some test files used to test scripts and codes
