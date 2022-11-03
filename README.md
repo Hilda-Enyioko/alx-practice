@@ -6,8 +6,8 @@ We learn through practice.
 
 ## CONTENT OF ALX-PRACTICE:
 
-1 0X03-git: This is used to practice git navigation, and git commands.
+1 git: This is used to practice git navigation, and git commands.
 
-2 alx-system_engineering-devops: This contains shell basics, shell permissions, shell redirection, and so on.
+2 system_engineering-devops: This contains shell basics, shell permissions, shell redirection, and so on.
 
-3 alx-low_level-programming: is used to practice c programming language.
+3 low_level-programming: is used to practice c programming language.
