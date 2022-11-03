@@ -1,4 +1,4 @@
-#include "main.h"
+#include "_printf.h"
 #include <stdio.h>
 #include <stdarg.h>
 #include <unistd.h>
@@ -9,8 +9,7 @@
  * Return: On success 1
  * else -1
  */
- int print_char(va_list arg)
- {
-   char *c = va_arg(arg, int);
-   return(write(1, &c, 1));
+int print_char(va_list arg)
+{
+  return (putchar(va_arg(arg, int)));
  }
