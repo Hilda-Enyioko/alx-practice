@@ -11,3 +11,5 @@ We learn through practice.
 2 system_engineering-devops: This contains shell basics, shell permissions, shell redirection, and so on.
 
 3 low_level-programming: is used to practice c programming language.
+
+4 extra_tasks: is used to practice extra tasks and code challenges aside from those provided by alx. These directory contains different programming languages.
