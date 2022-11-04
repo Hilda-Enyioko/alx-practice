@@ -18,8 +18,10 @@ int main()
   scanf("%f", &opposite);
 
   if (adjacent  <= 0 || opposite <= 0)
+  {
     printf("Please enter a positive value");
     return (-1);
+  }
 
   adjacent = adjacent * adjacent;
   opposite = opposite * opposite;
